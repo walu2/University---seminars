@@ -1,0 +1,14 @@
+This folder contains content of my presentations held on seminars during my study at the II UWr ('computer Science' at Wroclaw University; http://www.ii.uni.wroc.pl).
+
+===========
+
+* Advanced data structures [seminar] - Some sketch of my statement about most popular kinds of B-Tree structure (B+,B*). (year 2011 - 1h)
+
+* Operating systems - Content of the statement which I'be held together with Mateusz Osowski about "Virtualization and Emulation" during course "Operating systems". Apart from presentation, there was demonstration of mentioned systems. (year 2010 ~ 3h)
+
+* Databases 2 - My presentation about "Pig Latin" - language designed by "Yahoo!" used with Hadoop (as MapReduce (M/R) paradighm). After presentation was quick demonstation of this tool. (year 2011 ~ 1.5h)
+
+* New trends in databases [seminar] - Fragments of my presentation about commonly used 'Active Record' design pattern, at the example of Ruby on rails framework. Apart from this slides was more technical talk about caching and performance (year 2010 - 2h). 
+
+
+==============
